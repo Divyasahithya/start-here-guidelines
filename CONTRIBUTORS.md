@@ -6,6 +6,8 @@
 
 -[@gsonly](https://github.com/gsonly)
 
+-[@Divyasahithya](https://github.com/Divyasahithya)
+
 -[@codesankalp](https://github.com/codesankalp)
 
 -[@haobrien](https://github.com/haobrien)
